@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/(protected)/newsletter/page": "app/(protected)/newsletter/page.js",
+  "/(protected)/dashboard/page": "app/(protected)/dashboard/page.js",
+  "/(protected)/changelog/page": "app/(protected)/changelog/page.js"
+}
